@@ -1,0 +1,9 @@
+Question: What are some advantages of using JavaScript in web development?
+
+Answer: Advantages of using Javascript in web development include:
+
+* Enables the developer to add complex dynamic features to a web page
+* Enables the developer to utilize modern programming features such as variables, loops and objects
+in the development of web pages
+* Allows the developer to write code that responds to certain events on a web page
+* Rich ecosystem that offers APIs and libraries that make the development process more efficient
